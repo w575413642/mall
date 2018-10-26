@@ -1,0 +1,1 @@
+export default ["classification/index.vue","commodityDetails/index.vue","homePage/index.vue","login/login.vue","pay/index.vue","product/index.vue","self/index.vue","self/receivingAddress.vue","shoppingCart/index.vue"]
